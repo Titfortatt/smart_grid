@@ -1,14 +1,5 @@
 # Smart Grid API — Rendu Final
 
-## Identification du groupe
-
-- **Groupe** : B1GR24
-- **Trinôme** : ELKAHOUI Nada, LAZAAR Iness, VIGNAUD Mathéo
-- **Archive** : `ELKAHOUI_LAZAAR_VIGNAUD.zip`
-- **Date de rendu** : 7 juin 2026
-
----
-
 ## Routes implémentées
 
 ### Grids 
